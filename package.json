@@ -1,0 +1,15 @@
+{
+  "name": "brain-games",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Hexlet project Brain Games",
+  "main": "brain-games.js",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill Belyaev",
+  "license": "ISC"
+}
